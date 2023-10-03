@@ -1,0 +1,84 @@
+body{
+    background-color: #000000;
+    margin: 0;
+    border: 0;
+  
+}
+table{
+    width: 100vw;
+    height: 100vh;
+    
+    
+}
+
+td{
+    height: 28;
+    width: 12,5;
+    border: 1px solid #ff6961;
+    border-radius: 10px;
+}
+#um{
+    background-image: url(../img/images.jpg);
+    background-size: cover;
+}
+#dois{
+    background-image: url(../img/gabriel-dias-pimenta-bhG5kDIAMRg-unsplash.jpg);
+    background-size: cover;
+}
+#cinco{
+    background-image: url(../img/fusca.jpg);
+    background-size: cover;
+}
+#tres{
+    background-image: url(../img/02.09.jpg);
+    background-size: cover;
+}
+#nove{
+    background-image: url(../img/download.jpg);
+    background-size: cover;
+}
+#dois{
+    background-image: url(../img/jetta.jpg);
+    background-size: cover;
+}
+#nove{
+    background-image: url(../img/body.jpg);
+    background-size: cover;
+}
+#quinze{
+    background-image: url(../img/carro7.jpg);
+    background-size: cover;
+}
+#fot{
+    background-image: url(../img/gtr.jpg);
+    background-size: cover;
+}
+#fotos{
+    background-image: url(../img/carrinho.jpg.crdownload);
+    background-size: cover;
+}
+#fotoseis{
+    background-image: url(../img/carros-tunados-carros\ \(9\).jpg.crdownload);
+    background-size: cover;
+}
+#fotovinteum{
+    background-image: url(../img/cross.jpg);
+    background-size: cover;
+}
+#fotoonze{
+    background-image: url(../img/gabriel-dias-pimenta-bhG5kDIAMRg-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#fotoquinze{
+    background-image: url(../img/cross.jpg);
+    background-size: cover;
+}
+#fotodoze{
+    background-image: url(../img/Encontro-de-carros-rebaixados-2.jpg);
+    background-size: cover;
+}
+#fotodois{
+    background-image: url(../img/H_01-1.jpg);
+    background-size: cover;
+}
